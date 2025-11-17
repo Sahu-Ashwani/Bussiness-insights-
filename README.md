@@ -136,7 +136,20 @@ The project implements a **Snowflake Schema**, ensuring:
 - Critical KPIs: **Forecast Accuracy, Net Sales, GM%, NP%**  
 - Revenue distribution by **Division** and **Channel** (donut charts)  
 - Key insights categorized by **sub-zone**  
-- Yearly trends for **Net Sales**, **GM%**, **NP%**, **PC Market Share**  
+- Yearly trends for **Net Sales**, **GM%**, **NP%**, **PC Market Share**
+
+---
+
+## 📝 **Learning Outcomes**
+
+Through this project, I developed expertise in:
+
+- Building **enterprise-grade business intelligence solutions**  
+- Translating **business requirements** into **technical specifications**  
+- Creating **scalable and maintainable** data models  
+- Implementing **best practices** for dashboard performance & optimization  
+- Delivering **actionable insights** that drive real business value  
+
 
 ---
 ## 👨‍💻 Author
